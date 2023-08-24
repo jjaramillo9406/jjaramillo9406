@@ -6,6 +6,7 @@ My name is Jorge Jaramillo, I'm from Colombia and I'm Software Developer
 
 ## Skills
 
+* Technical leader skills
 * Critical thinking.
 * Problem solvem skills.
 * Teamwork skills
@@ -18,6 +19,14 @@ My name is Jorge Jaramillo, I'm from Colombia and I'm Software Developer
 * Python/Django/Django Rest Framework
 * Advanced knowledge in SQL Server
 * Advanced knowledge in MariaDB
+
+## Projects
+
+* Liquidation and collection of vehicle tax and registration tax in Norte de Santander => https://impuestosnortedesantander.com/
+* Coercive collection of vehicle tax => https://impuestosnortedesantander.com/srcapp
+* Accounting system => http://kairosonline.com/
+* Transito Seguro Migración Colombia => https://play.google.com/store/apps/details?id=io.ionic.oimtransito&hl=es_CO&gl=US
+* Sistema Integrado de Apoyo al Control del Impuesto al Consumo - SIANCO => https://sianco.fnd.org.co/
 
 ## Contact
 
