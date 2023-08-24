@@ -1,16 +1,25 @@
-### Hi there 👋
+## Hello!
 
-<!--
-**jjaramillo9406/jjaramillo9406** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Jorge Jaramillo, I'm from Colombia and I'm Software Developer
 
-Here are some ideas to get you started:
+* I'm currently working in APSYSTEM S.A.S and SIREZ S.A.S.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+* Critical thinking.
+* Problem solvem skills.
+* Teamwork skills
+* Advanced knowledge in .NET Framework MVC.
+* Advanced knowledge in .NET Framework WebForms.
+* Advanced knowledge in.NET Framework WinForms.
+* Advanced knowledge in .NET Core API.
+* Advanced knowledge in C#, Visual Basic .NET and F#.
+* Ruby/Ruby on Rails
+* Python/Django/Django Rest Framework
+* Advanced knowledge in SQL Server
+* Advanced knowledge in MariaDB
+
+## Contact
+
+* Email: jjaramillo9406gmail.com
+* Facebook: https://www.facebook.com/alexjaramillorte
